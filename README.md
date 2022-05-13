@@ -1,4 +1,5 @@
 # unit-testing-vue2
+From : https://www.vuemastery.com/courses/unit-testing/writing-a-unit-test-with-jest
 
 ## Project setup
 ```
